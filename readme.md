@@ -24,7 +24,7 @@ To get started with the YouTube Channel Analyzer, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/youtube-channel-analyzer.git
+   git clone [https://github.com/your-username/youtube-channel-analyzer.git](https://github.com/Arunangshu-Das/youtube_scrapping.git)
    ```
 
 2. Install the dependencies:
