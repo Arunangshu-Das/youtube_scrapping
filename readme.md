@@ -66,7 +66,7 @@ To get started with the YouTube Channel Analyzer, follow these steps:
 
 ## Screenshots
 
-![**Project video**](https://youtu.be/hhwddJ9RNCw)
+[**Project video**](https://youtu.be/hhwddJ9RNCw)
 
 ## Contributing
 
